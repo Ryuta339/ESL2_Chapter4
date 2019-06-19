@@ -7,3 +7,5 @@ T. Hastie, R. Tibshirani, J. Friedman
 Chapter 4 "Linear Methods for Classification"
 
 実装してみた。
+
+変更してみた。
